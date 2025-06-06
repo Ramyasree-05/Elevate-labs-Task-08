@@ -1,0 +1,16 @@
+Order Date,Region,Category,Sales,Profit
+2023-01-15,East,Technology,1200.5,250.4
+2023-01-18,West,Office Supplies,250.0,35.0
+2023-02-05,South,Furniture,780.0,150.0
+2023-02-20,Central,Technology,1340.0,310.0
+2023-03-03,East,Furniture,460.0,60.0
+2023-03-10,West,Technology,890.0,190.0
+2023-03-25,South,Office Supplies,340.0,40.0
+2023-04-11,Central,Furniture,950.0,210.0
+2023-04-18,East,Office Supplies,430.0,80.0
+2023-05-05,West,Furniture,670.0,95.0
+2023-05-22,South,Technology,1450.0,320.0
+2023-06-10,Central,Office Supplies,310.0,45.0
+2023-06-15,East,Technology,1320.0,280.0
+2023-07-01,West,Furniture,890.0,120.0
+2023-07-18,South,Office Supplies,390.0,55.0
